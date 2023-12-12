@@ -90,14 +90,14 @@ header {
 }
 
 .header-content {
-    margin-bottom: 450px;
+    margin-bottom: 350px;
     color: #ffffff;
     text-align: center;
     animation: transitionIn 8s;
 }
 
 .header-content h2 {
-    font-size: 11vmin;
+    font-size: 15vmin;
 }
 
 .line {
