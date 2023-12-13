@@ -157,6 +157,7 @@ header {
     width: 550px;
     max-width: 100%;
     padding: 0 10px;
+
 }
 
 .aboutmain {
@@ -183,7 +184,7 @@ header {
     letter-spacing: 1px;
     padding: 1px;
     line-height: 28px;
-    font-size: 18px;
+    font-size: 25px;
     margin-bottom: 45px;
 }
 
@@ -202,7 +203,7 @@ header {
 
 .about1 .aboutmain1 img {
     height: auto;
-    width: 430px;
+    width: 350px;
     max-width: 100%;
     box-shadow: rgba(80, 124, 182,  ) -5px 5px, rgba(80, 124, 182, ) -10px 10px, rgba(80, 124, 182, ) -15px 15px, rgba(80, 124, 182, ) -20px 20px, rgba(280, 124, 182, ) -25px 25px;
 }
@@ -270,7 +271,7 @@ header {
     letter-spacing: 1px;
     padding: 1px;
     line-height: 28px;
-    font-size: 18px;
+    font-size: 25px;
     margin-bottom: 65px;
 }
 
